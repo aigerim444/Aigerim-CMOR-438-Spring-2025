@@ -1,6 +1,6 @@
 # Supervised Learning Algorithms
 
-This directory contains implementations of various supervised learning algorithms. Each algorithm is implemented and demonstrated on selected datasets.
+This directory contains implementations of different supervised learning algorithms. Each algorithm is implemented and demonstrated on  datasets.
 
 ## Algorithms
 
@@ -30,8 +30,7 @@ This directory contains implementations of various supervised learning algorithm
 
 ## Directory Structure
 Each algorithm has:
-- Python mplementation code
-- Dataset information
-- Results and visualizations
-- Documentation and usage examples
+- Python code for implementation
+- A selected dataset
+- Discussion of results
 

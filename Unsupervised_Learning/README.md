@@ -18,7 +18,6 @@ This directory contains implementations of various unsupervised learning algorit
 
 ## Directory Structure
 Each algorithm directory has:
-- Python implementation code
-- Dataset information
-- Results and visualizations
-- Documentation and usage examples
+- Python code for implementation
+- A selected dataset
+- Discussion of results

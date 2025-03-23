@@ -4,26 +4,6 @@ This repository houses various supervised and unsupervised machine learning algo
 
 ## Repository Structure
 
-```
-.
-├── Supervised_Learning/
-│   ├── README.md
-│   ├── perceptron/
-│   ├── linear_regression/
-│   ├── logistic_regression/
-│   ├── neural_networks/
-│   ├── k_nearest_neighbors/
-│   ├── decision_trees/
-│   ├── random_forests/
-│   └── ensemble_methods/
-└── Unsupervised_Learning/
-    ├── README.md
-    ├── k_means_clustering/
-    ├── dbscan/
-    ├── principal_component_analysis/
-    └── svd_image_compression/
-```
-
 ## Algorithms Implemented
 
 ### Supervised Learning
@@ -52,7 +32,7 @@ This repository houses various supervised and unsupervised machine learning algo
 
 ## Setup and Usage
 1. Clone the repository
-2. Install required dependencies (refer to requirements.txt)
+2. Install dependencies (requirements.txt)
 3. Use specific algorithm directories for details on implementaiton
 
 ## Author
