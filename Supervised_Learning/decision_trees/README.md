@@ -18,6 +18,8 @@ The main aspects of my implementation in the notebook:
 
 - Evaluate performance using confusion matrix
 
+For the regression trees part of the notebook, we use the **Wine Quality dataset**, which contains physicochemical features of red wine samples (e.g., acidity, sugar, alcohol) and aims to predict a quality score ranging from 0 to 10.
+
 ### Dependencies
 
 Need the following libraries:

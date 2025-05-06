@@ -34,6 +34,6 @@ In the end, I achieved the final test accuracy of 85%, and observed the MSE loss
 
 ### Dependencies
 
-Make sure to install
+Make sure to install the required libraries.
 ```bash 
 pip install numpy matplotlib tensorflow scikit-learn
