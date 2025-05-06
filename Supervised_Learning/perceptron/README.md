@@ -5,6 +5,6 @@ Algorithm for supervised learning of binary classifiers.
 Single Layer Perceptron can learn only linearly separable patterns.
 It's a simplified model of a biological neuron, simulating one cell's behavior.
 A neuron cell gets an input signal -> the signal travels and once it reaches a threshold, the cell activates and gives an output signal.
-### How it works
+
 
 ## Data
