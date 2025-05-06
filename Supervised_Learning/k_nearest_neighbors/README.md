@@ -24,3 +24,9 @@ Sulphates
 Alcohol
 
 I selected these features: Alcohol content, Density, and pH and their relationship to the "quality" of the wine which is given a score between 0 and 10. A score greater than or equal to 7 was regarded as good (1), and bad (0) otherwise.   
+
+### Dependencies
+
+Make sure to install
+```bash 
+pip install numpy matplotlib tensorflow scikit-learn
