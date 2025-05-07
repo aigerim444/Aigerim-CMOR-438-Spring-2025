@@ -6,20 +6,20 @@ This repository houses various supervised and unsupervised machine learning algo
 
 ### Supervised Learning
 
-- [perceptron](./supervised_learning/perceptron) – Binary classification using the Perceptron algorithm
-- [linear_regression](./supervised_learning/linear_regression) – Regression using a single neuron model
-- [logistic_regression](./supervised_learning/logistic_regression) – Logistic regression with sigmoid activation and cross-entropy loss
-- [neural_networks](./supervised_learning/neural_networks) – Feedforward neural network with backpropagation
-- [knn](./supervised_learning/knn) – K-Nearest Neighbors implementation
-- [decision_trees](./supervised_learning/decision_trees) – Classification and regression tree models
-- [ensemble_methods](./supervised_learning/ensemble_methods) – Boosting and other ensemble techniques
+- [perceptron](./Supervised_Learning/perceptron) – Binary classification using the Perceptron algorithm
+- [linear_regression](./Supervised_Learning/linear_regression) – Regression using a single neuron model
+- [logistic_regression](./Supervised_Learning/logistic_regression) – Logistic regression with sigmoid activation and cross-entropy loss
+- [neural_networks](./Supervised_Learning/neural_networks) – Feedforward neural network with backpropagation
+- [knn](./Supervised_Learning/k_nearest_neighbors) – K-Nearest Neighbors implementation
+- [decision_trees](./Supervised_Learning/decision_trees) – Classification and regression tree models
+- [ensemble_methods](./Supervised_Learning/ensem) – Boosting and other ensemble techniques
 
 ### Unsupervised Learning
 
-- [kmeans](./unsupervised_learning/kmeans) – K-Means clustering algorithm
-- [dbscan](./unsupervised_learning/dbscan) – Density-Based Spatial Clustering (DBSCAN)
-- [pca](./unsupervised_learning/pca) – Principal Component Analysis for dimensionality reduction
-- [svd_image_compression](./unsupervised_learning/svd_image_compression) – Image compression using SVD
+- [kmeans](./Unsupervised_Learning/k_means_clustering) – K-Means clustering algorithm
+- [dbscan](./Unsupervised_Learning/dbscan) – Density-Based Spatial Clustering (DBSCAN)
+- [pca](./Unsupervised_Learning/principal_component_analysis) – Principal Component Analysis for dimensionality reduction
+- [svd_image_compression](./Unsupervised_Learning/svd_image_compression) – Image compression using SVD
 
 
 ## Each Directory Structure
