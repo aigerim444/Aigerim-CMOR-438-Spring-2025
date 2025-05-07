@@ -4,10 +4,10 @@ This directory contains implementations of various unsupervised learning algorit
 
 ## Algorithms
 
-1. **K-Means Clustering**
+1. **DBSCAN**
 
 
-2. **DBSCAN**
+2. **K-Means Clustering**
    
 
 3. **Principal Component Analysis**

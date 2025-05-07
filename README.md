@@ -4,25 +4,25 @@ This repository houses various supervised and unsupervised machine learning algo
 
 ## Repository Structure
 
-## Algorithms Implemented
-
 ### Supervised Learning
-1. The Perceptron
-2. Linear Regression
-3. Logistic Regression
-4. Neural Networks
-5. K Nearest Neighbors
-6. Decision Trees / Regression Trees
-7. Random Forests
-8. Ensemble Methods (including Boosting)
+
+- [perceptron/](./supervised_learning/perceptron) – Binary classification using the Perceptron algorithm
+- [linear_regression/](./supervised_learning/linear_regression) – Regression using a single neuron model
+- [logistic_regression/](./supervised_learning/logistic_regression) – Logistic regression with sigmoid activation and cross-entropy loss
+- [neural_networks/](./supervised_learning/neural_networks) – Feedforward neural network with backpropagation
+- [knn/](./supervised_learning/knn) – K-Nearest Neighbors implementation
+- [decision_trees/](./supervised_learning/decision_trees) – Classification and regression tree models
+- [ensemble_methods/](./supervised_learning/ensemble_methods) – Boosting and other ensemble techniques
 
 ### Unsupervised Learning
-1. K-Means Clustering
-2. DBSCAN
-3. Principal Component Analysis
-4. Image Compression with SVD
 
-## Repo Structure
+- [kmeans/](./unsupervised_learning/kmeans) – K-Means clustering algorithm
+- [dbscan/](./unsupervised_learning/dbscan) – Density-Based Spatial Clustering (DBSCAN)
+- [pca/](./unsupervised_learning/pca) – Principal Component Analysis for dimensionality reduction
+- [svd_image_compression/](./unsupervised_learning/svd_image_compression) – Image compression using SVD
+
+
+## Each Directory Structure
 - Each algorithm is implemented using Python
 - All implementations use datasets 
 - Each algorithm directory has:

@@ -22,10 +22,7 @@ This directory contains implementations of different supervised learning algorit
 6. **Decision Trees/Regression Trees**
   
 
-7. **Random Forests**
-  
-
-8. **Ensemble Methods, including boosting**
+7. **Ensemble Methods**
   
 
 ## Directory Structure

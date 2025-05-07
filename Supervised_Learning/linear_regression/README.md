@@ -13,7 +13,7 @@ $$b$$: bias (intercept)
 
 ### Implementation
 
-We use a dataset containing physical dimensions of cars and apply gradient descent to learn a best-fit line. This approach mimics a basic linear regression model using neural network principles. 
+We use a dataset containing physical dimensions of cars ([text](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data)and apply gradient descent to learn a best-fit line. This approach mimics a basic linear regression model using neural network principles. 
 
 We’ll also examine the effect of learning rate on convergence.
 
