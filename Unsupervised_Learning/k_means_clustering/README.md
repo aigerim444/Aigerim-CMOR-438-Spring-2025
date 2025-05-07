@@ -19,6 +19,9 @@ With the optimal K, we fit the model with the chosen K and predicted cluster ass
 
 Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. K-means provided a way to segment customers based on their engagement with deals and overall expenditure. This appraoch has applications to marketing, through targeted promotions or altering offers for customers.
 
+Dataset: https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/input
+
+
 ### Dependencies
 
 Install the required packages:
